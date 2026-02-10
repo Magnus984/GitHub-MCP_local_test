@@ -5,3 +5,7 @@ This repository is created for local testing of GitHub MCP functionalities. It s
 ## Author
 
 Magnus
+
+## Co-Author
+
+Michael
